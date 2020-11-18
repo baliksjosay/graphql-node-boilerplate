@@ -1,0 +1,25 @@
+{
+    "name": "graphql-server",
+    "version": "1.0.0",
+    "description": "graphql with node starter app",
+    "main": "index.js",
+    "scripts": {
+      "dev": "graphpack",
+      "build": "graphpack build",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/baliksjosay/graphql-node-boilerplate.git"
+    },
+    "keywords": [
+      "nodejs",
+      "qraphql"
+    ],
+    "author": "Joseph Balikuddembe",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/baliksjosay/graphql-node-boilerplate/issues"
+    },
+    "homepage": "https://github.com/baliksjosay/graphql-node-boilerplate#readme"
+}
